@@ -94,16 +94,3 @@ Start_City = "Biskra"
 start_city_index = Shortest_city_path_list.index(Start_City)
 
 print(Shortest_city_path_list[start_city_index:] + Shortest_city_path_list[:start_city_index])
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -59,9 +59,3 @@ class Solution:
         self.cost = distance
 
         self.fitness_value = 1 / self.cost
-
-
-
-
-
-

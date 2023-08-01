@@ -112,5 +112,3 @@ def create_new_generation(previous_generation, mutation_rate):
         new_generation.append(child_2)
 
     return new_generation
-
-
