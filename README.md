@@ -48,8 +48,8 @@ The project provides visualizations of the cost-generation graph and the best pa
 
 ## Example Images
 
-![Plot Result - Algeria](example_images/plot_result_algeria.png)
-![Cost per Generation](example_images/cost_per_generation.png)
+![Plot Result - Algeria](https://github.com/BouchanaHicham/TSP-Genetic-Algorithm-GeoData/blob/main/Results/Algeria.png)
+![Cost per Generation](https://github.com/BouchanaHicham/TSP-Genetic-Algorithm-GeoData/blob/main/Results/Cost_per_Gen.png)
 
 ## Contributing
 
